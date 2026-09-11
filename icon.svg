@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="LAD Claims">
+  <!--
+    FAVICON, 2026-09-09. Fahad: "we are not getting a separate logo design, the
+    LAD Claims is the logo for now." So this is DERIVED from the wordmark rather
+    than designed. The header sets "LAD" in the ink colour and "Claims" in the
+    brand red; at 16px in a tab only about three letters survive, so the mark
+    keeps the letters that are readable and the red that is recognisable.
+
+    LETTERS ARE PATHS, NOT <text>. An SVG favicon is rasterised outside the page,
+    so it never gets Outfit: a text element would fall back to whatever the OS
+    hands it and change shape between machines. Drawn geometry renders the same
+    everywhere and needs no font.
+
+    The A and the D use fill-rule evenodd, so their counters are holes in one
+    path rather than a second shape painted in the background colour. That way
+    the mark still works if it is ever placed on something other than the red.
+  -->
+  <rect width="64" height="64" rx="13" fill="#CC0000"/>
+  <g fill="#fff" fill-rule="evenodd">
+    <path d="M6 18h7.4v21h9.6v7H6z"/>
+    <path d="M31.4 18 41.9 46h-7.1l-1.6-4.6h-7.2L24.4 46h-7.1L27.8 18ZM29.6 27.8l-2.2 7.4h4.4z"/>
+    <path d="M43.8 18h6.9c7.7 0 13.3 5.8 13.3 14s-5.6 14-13.3 14h-6.9Zm7.4 7.2v13.6h.4c3.6 0 6.1-2.8 6.1-6.8s-2.5-6.8-6.1-6.8z"/>
+  </g>
+</svg>

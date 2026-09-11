@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[87429,["/lad-claims-preview-maroon/_next/static/chunks/3rdqn8rx95pw7.js","/lad-claims-preview-maroon/_next/static/chunks/1km65dlc4v9mg.js","/lad-claims-preview-maroon/_next/static/chunks/3q6j54ddtz7ur.js","/lad-claims-preview-maroon/_next/static/chunks/220cgt0wxo4hd.js","/lad-claims-preview-maroon/_next/static/chunks/14mrh2-p_w84d.js","/lad-claims-preview-maroon/_next/static/chunks/1eoosu98drcvh.js"],"default"]
+3:I[97367,["/lad-claims-preview-maroon/_next/static/chunks/3rdqn8rx95pw7.js","/lad-claims-preview-maroon/_next/static/chunks/1km65dlc4v9mg.js","/lad-claims-preview-maroon/_next/static/chunks/3q6j54ddtz7ur.js","/lad-claims-preview-maroon/_next/static/chunks/220cgt0wxo4hd.js","/lad-claims-preview-maroon/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"m-pale start-page","children":[["$","h1",null,{"className":"sr-only","children":"Check my claim"}],["$","$L2",null,{}]]}],[["$","script","script-0",{"src":"/lad-claims-preview-maroon/_next/static/chunks/1eoosu98drcvh.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4NHIwTbEaQH4pP7IbQ9PC"}
+5:null
