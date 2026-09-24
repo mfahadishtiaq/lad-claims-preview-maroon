@@ -1,0 +1,4 @@
+:HL["/lad-claims-preview-maroon/_next/static/chunks/0ry7l156eqcgt.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800&family=Figtree:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap","style"]
+:HL["/lad-claims-preview-maroon/brand/pcp-logo-white.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"lenders","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"santander","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"njfYQ4uH0uy_NokL6sIbR"}
